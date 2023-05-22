@@ -1,0 +1,11 @@
+{"qimages": [
+    { "id":1, "name":"","image": "images/house.png" },
+    { "id": 2,"name":"गाढव","image": "images/ink.png" },
+    
+    { "id": 4,"name":"गवत", "image": "images/mango.png" },
+    { "id": 5,"name":"इंजिन", "image": "images/thasa.png" },
+    {"id": 6,"name": "गाय", "image": "images/spoon.png"}
+
+  ],
+  "devnagari": [{"image":"images/"}]
+  }
